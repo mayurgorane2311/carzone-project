@@ -1,0 +1,21 @@
+#header{
+    background-color: rgb(199, 71, 150) !important;
+    color: rgb(34, 211, 202) !important;
+    box-shadow: 0px 0px 3px 0px #ff0000;
+}
+
+
+div.breadcrumbs{
+    background-color: rgb(172, 149, 76);
+}
+
+.module h2, .module caption, .inline-group h2{
+    background-color: rgb(172, 149, 76) !important;
+}
+
+.button, input[type=submit], input[type=button], .submit-row input, a.button{
+    background-color: rgb(105, 53, 202);
+}
+a:link, a:visited{
+    color: darksalmon;
+}
